@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import re
 
-ML_ACCESS_TOKEN = "APP_USR-5973721571310127-050504-186d02bb9c57733b0e9cd421b17eae7b-665339669"
+ML_ACCESS_TOKEN = "APP_USR-5973721571310127-050510-490a25978992ee35070fd7d9610ce817-3227172442"
 
 st.set_page_config(page_title="Busca Nickname ML", page_icon="🔍")
 st.title("🔍 Localizador de Nickname ML")
